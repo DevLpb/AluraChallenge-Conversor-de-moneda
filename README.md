@@ -1,2 +1,3 @@
-# AluraChallenge-Conversor-de-moneda
-Challenge de Alura y Oracle Next Education, cuyo objetivo es poner a prueba conocimientos adquiridos al crear una aplicación capaz de convertir distintos valores de moneda consumiendo una API dedicada.
+# AluraChallenge - Conversor de Moneda
+
+Challenge de Alura y Oracle Next Education, cuyo objetivo es poner a prueba conocimientos adquiridos al crear una aplicación capaz de convertir distintos valores de divisas consumiendo una API dedicada.
